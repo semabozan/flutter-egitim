@@ -33,4 +33,3 @@ void main() {
 // PUBSPEC.YAML dosyasına assets tanıtırken zorlandım 
 //flutter in altına dosya yolu ekliyosun
 //her seferinde 2 satır boşluk bırakman gerek.
-//bunu yapay zekayla yaptırdım yine hata verdiği için.
